@@ -1,4 +1,4 @@
-# Finora – Persönlicher Finazplaner
+# Finora – Persönlicher Finanzplaner
 
 Finora ist ein kostenloser, offline-fähiger Budgetplaner der direkt im Browser läuft.
 
