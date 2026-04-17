@@ -1,7 +1,5 @@
 # Finora – Persönlicher Finanzplaner
 
-Finora ist ein kostenloser, offline-fähiger Budgetplaner der direkt im Browser läuft.
-
 ## Funktionen
 
 - Einnahmen, Ausgaben & Sparbeträge tracken
@@ -11,12 +9,6 @@ Finora ist ein kostenloser, offline-fähiger Budgetplaner der direkt im Browser 
 - Monatsverlauf & Jahresdurchschnitte
 - Export & Import als JSON
 - Als App auf iPhone, iPad & Android installierbar (PWA)
-- 100% lokal – keine Cloud, kein Konto, keine Datenweitergabe
-
-## Datenschutz
-
-Alle Daten werden ausschließlich im localStorage des eigenen Browsers gespeichert.
-Keine Daten werden an Server übertragen.
 
 ## Als App installieren
 
